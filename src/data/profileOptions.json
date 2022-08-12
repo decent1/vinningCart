@@ -1,0 +1,32 @@
+[
+    {
+        "id":"1",
+        "name":"Orders",
+        "image":"promotions"
+    },
+    {
+        "id":"2",
+        "name":"Wallet",
+        "image":"cooking"
+    },
+    {
+        "id":"3",
+        "name":"Address",
+        "image":"cosmetics"
+    },
+    {
+        "id":"4",
+        "name":"Settings",
+        "image":"drinks"
+    },
+    {
+        "id":"5",
+        "name":"Wishlist",
+        "image":"promotions"
+    },
+    {
+        "id":"6",
+        "name":"Scan",
+        "image":"cooking"
+    },
+]

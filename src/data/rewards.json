@@ -1,0 +1,26 @@
+[
+    {
+        "id":"1",
+        "win_rupees":100,
+        "points":250,
+        "isLocked":false
+    },
+    {
+        "id":"2",
+        "win_rupees":100,
+        "points":250,
+        "isLocked":false
+    },
+    {
+        "id":"3",
+        "win_rupees":100,
+        "points":250,
+        "isLocked":false
+    },
+    {
+        "id":"4",
+        "win_rupees":100,
+        "points":250,
+        "isLocked":false
+    }
+]

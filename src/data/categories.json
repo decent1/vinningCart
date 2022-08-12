@@ -1,0 +1,42 @@
+[
+    {
+        "id":"1",
+        "name":"Promotions",
+        "image":"promotions"
+    },
+    {
+        "id":"2",
+        "name":"Cooking Essential",
+        "image":"cooking"
+    },
+    {
+        "id":"3",
+        "name":"Cosmetics",
+        "image":"cosmetics"
+    },
+    {
+        "id":"4",
+        "name":"Drinks",
+        "image":"drinks"
+    },
+    {
+        "id":"5",
+        "name":"Promotions",
+        "image":"promotions"
+    },
+    {
+        "id":"6",
+        "name":"Cooking Essential",
+        "image":"cooking"
+    },
+    {
+        "id":"7",
+        "name":"Cosmetics",
+        "image":"cosmetics"
+    },
+    {
+        "id":"8",
+        "name":"Drinks",
+        "image":"drinks"
+    }
+]

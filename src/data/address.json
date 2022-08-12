@@ -1,0 +1,12 @@
+[
+    {
+        "id":"1",
+        "type":"Home",
+        "address":"Abc street 123, karachi."
+    },
+    {
+        "id":"2",
+        "type":"Office",
+        "address":"Defence Housing Society, block 110, Karachi"
+    }
+]

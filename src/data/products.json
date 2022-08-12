@@ -1,0 +1,87 @@
+[
+    {
+        "id": "1",
+        "name":"Sunflower Oil",
+        "image":"cookingoil",
+        "variation": [
+            {
+                "id": "1",
+                "name":"5 Kg",
+                "price":245
+            },
+            {
+                "id": "2",
+                "name":"10 Kg",
+                "price":490
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "name":"Sunflower Oil",
+        "image":"cookingoil",
+        "variation": [
+            {
+                "id": "1",
+                "name":"5 Kg",
+                "price":245
+            },
+            {
+                "id": "2",
+                "name":"10 Kg",
+                "price":490
+            }
+        ]
+    },
+    {
+        "id": "3",
+        "name":"Sunflower Oil",
+        "image":"cookingoil",
+        "variation": [
+            {
+                "id": "1",
+                "name":"5 Kg",
+                "price":245
+            },
+            {
+                "id": "2",
+                "name":"10 Kg",
+                "price":490
+            }
+        ]
+    },
+    {
+        "id": "4",
+        "name":"Sunflower Oil",
+        "image":"cookingoil",
+        "variation": [
+            {
+                "id": "1",
+                "name":"5 Kg",
+                "price":245
+            },
+            {
+                "id": "2",
+                "name":"10 Kg",
+                "price":490
+            }
+        ]
+    },
+    {
+        "id": "5",
+        "name":"Sunridge Chakki Atta",
+        "image":"flour",
+        "variation": [
+            {
+                "id": "1",
+                "name":"5 Kg",
+                "price":550
+            },
+            {
+                "id": "2",
+                "name":"10 Kg",
+                "price":1100
+            }
+        ]
+    }
+]
